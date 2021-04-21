@@ -92,13 +92,13 @@ For any scenarios that have not been automated, test the user stories manually a
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-### 6. Project barriers and solutions
+## 6. Project barriers and solutions
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-### 7. Version Control
+## 7. Version Control
 
 ## 8. Deployment
 
@@ -120,6 +120,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Media
 - The photos used in this site were obtained from ...
 
-### 10. Acknowledgements
+## 10. Acknowledgements
 
 - I received inspiration for this project from X
