@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+header {
+    background-color: deeppink;
+}
+
+#home-page {
+    background-color: aquamarine;
+}
+
+#funfacts-page {
+    background-color: burlywood;
+}
+
+#recipes-page {
+    background-color: coral;
+}
+
+#subscribe-page {
+    background-color: darkcyan;
+}
+
+footer {
+    background-color: deeppink;
+}
