@@ -55,6 +55,8 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## 3. Features
 
+Decided to keep the nav bar expanded for tablet screen.
+
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
