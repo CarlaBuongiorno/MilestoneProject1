@@ -1,19 +1,71 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap');
 
-header {
+body {
     margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.sticky-top {
-    position: sticky;
-    top: 0;
+a.navbar-brand {
+    height: 80px;
 }
 
+.delicious {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+    color: #ff536e;
+    margin-bottom: 0;
+}
 
+.monster {
+    color: #bedfb3;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+
+.navbar-dark .navbar-toggler {
+    font-size: 2rem;
+    border: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: right;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #bedfb3;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #bedfb3;
+    
+}
 
 #home-page {
-    background-color: aquamarine;
+    background-color: #0a0a0c;
 }
+
+.transparent {
+background-color: rgba(0,0,0,0.0);
+}
+
+.hero-image {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    position: relative;
+    background-attachment: fixed;
+    background-image: url("../images/hero-image.jpg");
+    background-position: center -200%;
+}
+
+
+
+
 
 #funfacts-page {
     background-color: burlywood;
@@ -29,4 +81,37 @@ header {
 
 footer {
     background-color: deeppink;
+}
+
+/* -------------- Media Queries ------------------- */
+
+/* Medium devices (tablets, 768px) */
+@media screen and (min-width: 768px) { 
+    .hero-image {
+        background-size: 110%;
+        background-position: center 0;
+    }
+}
+
+/* Large devices (desktops, 992px & up) */
+@media screen and (min-width: 992px) { 
+    .hero-image {
+        background-size: 60%;
+        background-position: center 26%;
+    }
+}
+
+/* Medium & Large devices (768px & up) */
+@media screen and (min-width: 768px)
+.navbar-dark .navbar-nav .nav-link {
+    color: #bedfb3;
+    font-size: 20px;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #bedfb3;
+    font-size: 20px;
+    font-weight: 900;
+
+    font-weight: 900;
 }
