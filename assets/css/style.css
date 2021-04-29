@@ -7,6 +7,18 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 16px 0;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 20px;
+}
 
 /* --------------- Navigation ------------------ */
 
@@ -34,8 +46,9 @@ a.navbar-brand {
     border: none;
 }
 
-.transparent {
-    background-color: rgba(0,0,0,0.0);
+.navbar-dark {
+    background-color: #0a0a0c;
+    padding-bottom: 16px;
 }
 
 .navbar .navbar-collapse {
@@ -87,8 +100,27 @@ a.navbar-brand {
 
 
 #funfacts-page {
-    background-color: burlywood;
+    background-color: #ff536e;
 }
+
+.col-sm-6 {
+    width: 50%;
+}
+
+p .did-you-know {
+    max-width: 50%;
+    display: inline;
+    padding-top: 1.5rem;
+}
+
+.berries-image img {
+    width: 100%;
+    padding-top: 50%;
+    padding-bottom: 50%;
+}
+
+
+/* -------------------- Fun Facts ------------------- */
 
 #recipes-page {
     background-color: coral;
