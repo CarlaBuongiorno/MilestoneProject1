@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Open+Sans:wght@400;600;700&display=swap');
 
 body {
-    margin: 0;
     padding: 0;
     border: 0;
     font-family: 'Open Sans', sans-serif;
@@ -17,7 +16,7 @@ h2 {
 
 h4 {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 /* --------------- Navigation ------------------ */
@@ -34,11 +33,12 @@ a.navbar-brand {
 }
 
 .monster {
-    color: #bedfb3;
-    font-size: 24px;
+    color: #d6efcf;
+    font-size: 16px;
+    letter-spacing: 1px;
     position: relative;
-    left: 50px;
-    bottom: 50px;
+    left: 76px;
+    bottom: 46px;
 }
 
 .navbar-dark .navbar-toggler {
@@ -56,7 +56,7 @@ a.navbar-brand {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #bedfb3;
+    color: #d6efcf;
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
@@ -92,6 +92,7 @@ a.navbar-brand {
     background-size: 150%;
     position: relative;
     background-attachment: fixed;
+    /* Credit - https://www.pexels.com/photo/red-strawberry-fruit-2459870/ */
     background-image: url("../images/hero-image.jpg");
     background-position: center -200%;
 }
@@ -102,17 +103,31 @@ a.navbar-brand {
 #funfacts-page {
     background-color: #ff536e;
 }
-
-p .did-you-know {
-    max-width: 50%;
+.row {
+    margin: 0;
+}
+.did-you-know {
+    width: 100%;
     display: inline;
     padding-top: 1.5rem;
 }
 
-.berries-image img {
+.funfacts-image-container {
+    width: 100px;
+}
+
+.berries {
     width: 100%;
-    padding-top: 50%;
-    padding-bottom: 50%;
+}
+
+.cake-slice {
+    width: 100%;
+}
+
+.funfacts-image-container img {
+	margin: 8px 0px;
+	    -webkit-box-shadow: var(--box-shadow);
+	box-shadow: var(--box-shadow);
 }
 
 
@@ -127,7 +142,7 @@ p .did-you-know {
 }
 
 footer {
-    background-color: deeppink;
+    background-color: blueviolet;
 }
 
 /* -------------- Media Queries ------------------- */
@@ -151,7 +166,7 @@ footer {
 /* Medium & Large devices (768px & up) */
 @media screen and (min-width: 768px) {
     .navbar-dark .navbar-nav .nav-link {
-        color: #bedfb3;
+        color: #d6efcf;
         font-size: 20px;
     }
 }
