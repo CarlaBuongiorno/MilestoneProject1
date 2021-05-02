@@ -37,7 +37,7 @@
     </header>
 
         <!--------------- Home Page --------------->
-    <section id="home-page" class="hero-image">
+    <section id="home-page" class="container-fluid hero-image">
         <!-- <div class="container-fluid hero-image">
                
         </div> -->
@@ -46,48 +46,58 @@
         <!-------------- Fun Facts Page ------------->
         <!-- Credit - Code Institute Whiskey Drop Bootstrap Responsive Design for better understanding of design layout -->
     <section id="funfacts-page"> 
-                <div class="col-12">
-                        <h2>Fun Facts</h2>
-                </div>
+        <div>
+                <h2>Fun Facts</h2>
+        </div>
         <div class="row">
-                <div class="col-12 col-md-4 did-you-know">
-                        <div class="ice-cream">
-                                <h4>Did You Know?</h4>
-                                <p>Ice cream you see in ice cream commercials is often mashed 
-                                potatoes to avoid melting during long production hours.</p>
-                        </div>
+                <div class="text-image">
+                        <div class="col-md-4">
+                                <div class="ice-cream did-you-know">
+                                        <h4>Did You Know?</h4>
+                                        <p>The delicious ice-cream scene in ice-cream 
+                                        advertisements is often actually mashed potatoes because 
+                                        it doesn’t melt during the production and heavy lighting.</p>
+                                </div>
+        <!-- Credit - Stackoverflow for adjusting img size post: https://stackoverflow.com/questions/16466240/adjusting-and-image-size-to-fit-a-div-bootstrap -->                             
+                                <div class="container">
+                                        <div class="col-md-4 px-0">
+                                                <!-- Photo by Micheile @visualstories.nl from Pexels -->
+                                                <img src="assets/images/ice-cream.jpg" class="img-fluid did-you-know ice-cream-image">
+                                        </div>
+                                </div>
+                        </div>        
                 </div>
-                <!-- Credit - Stackoverflow for adjusting img size post: https://stackoverflow.com/questions/16466240/adjusting-and-image-size-to-fit-a-div-bootstrap -->
-                <div class="container">
-                        <div class="col-md-4 px-0">
-                            <img src="assets/images/berries.jpg" class="img-fluid">
+                <div class="image-text">
+                        <div class="col-md-4">
+                                <div class="brownie did-you-know">
+                                        <h4>Did You Know?</h4>
+                                        <p>The biggest brownie ever baked weighed 1590kg,
+                                        made pretty from Fair Trade ingredients at the 
+                                        University of McGill in Canada.</p>
+                                </div>
+                                <div class="container">
+                                        <div class="col-md-4 px-0">
+                                                <!-- Photo by <a href="https://unsplash.com/@shaniapinnata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shania Pinnata</a> on <a href="https://unsplash.com/s/photos/browny?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
+                                                <img src="assets/images/brownies.jpg" class="img-fluid did-you-know brownie-image">
+                                        </div>
+                                </div>
                         </div>
+                        
                 </div>
-                <div class="col-12 col-md-4 did-you-know">
-                        <div class="brownie">
-                                <h4>Did You Know?</h4>
-                                <p>In 2014, staff workers at McGill University in 
-                                Montreal baked the world's largest brownie. It wieghed 
-                                in at just over two tons and was made completely with Fair Trade ingredients.</p>
-                        </div>
-                </div>
-                <div class="container">
-                        <div class="col-md-4 px-0">
-                            <img src="assets/images/berries.jpg" class="img-fluid">
-                        </div>
-                </div>
-                <div class="col-12 col-md-4 did-you-know">
-                        <div class="cake-slice">
-                                <h4>Did You Know?</h4>
-                                <p>In the 17th century, women would often put a 
-                                piece of cake under their pillow in order to dream 
-                                about their future spouses.</p>
-                        </div>
-                </div>
-                <div class="container">
-                        <div class="col-md-4 px-0">
-                                <!-- Image by <a href="https://pixabay.com/users/no-longer-here-19203/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2818729">No-longer-here</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2818729">Pixabay</a> -->
-                                <img src="assets/images/cake-slice.jpg" class="img-fluid">
+                <div class="text-image">
+                        <div class="col-md-4">
+                                <div class="cake-slice did-you-know">
+                                        <h4>Did You Know?</h4>
+                                        <p>In the 17th century, they believed that putting 
+                                        a slice of wedding cake under your pillow before you 
+                                        go to sleep would lure dreams of your future husband.</p>
+                                </div>
+                                <div class="container">
+                                        <div class="col-md-4 px-0">
+                                                <!-- Photo by <a href="https://unsplash.com/@alexagornago?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexandra Gornago</a> on <a href="https://unsplash.com/s/photos/wedding-cakes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
+                                                <img src="assets/images/wedding-cake.jpg" class="img-fluid did-you-know cake-slice-image">
+                                        </div>
+                                </div> 
                         </div>
                 </div>
         </div>
