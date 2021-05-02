@@ -14,7 +14,7 @@ h2 {
     font-weight: 700;
     font-size: 3.5rem;
     text-align: center;
-    padding-top: 16px;
+    padding: 20px 0 16px;
 }
 
 h4 {
@@ -107,18 +107,6 @@ a.navbar-brand {
     background-color: #ff536e;
 }
 
-/* .my-container {
-    border: 1px solid green;
-}
-
-.my-row {
-    border: 3px solid red;
-}
-
-.my-col {
-    border: 1px solid blue;
-} */
-
 .my-col {
     padding: 15px;
 }
@@ -127,43 +115,19 @@ a.navbar-brand {
     max-width: 50%;
 }
 
-/* .row {
-    margin: 0;
-}
-.did-you-know.ice-cream,
-.did-you-know.brownie,
-.did-you-know.cake-slice {
-  width: 50%;
+.align-text-right {
+    text-align: right;
 }
 
-.did-you-know.brownie {
-    position: relative;
-    left: 50%;
+.blockquote {
+    padding-top: 20px;
+    color: #0a0a0c;
 }
 
-img.ice-cream-image,
-img.brownie-image,
-img.cake-slice-image {
-    width: 45%;
-    position: absolute;
+.blockquote-footer {
+    color: #202029;
 }
 
-img.ice-cream-image,
-img.cake-slice-image {
-    left: 55%;
-}
-
-img.ice-cream-image {
-    bottom: 73px;
-}
-
-img.brownie-image {
-    bottom: 144px;
-}
-
-img.cake-slice-image {
-    bottom: 14px;
-} */
 
 /* -------------------- Fun Facts ------------------- */
 
@@ -176,7 +140,6 @@ img.cake-slice-image {
 }
 
 footer {
-    background-color: blueviolet;
 }
 
 /* -------------- Media Queries ------------------- */
@@ -208,5 +171,35 @@ footer {
 @media (min-width: 576px) {
     .container, .container-sm {
         max-width: 95%;
+    }
+}
+
+/* ---------------- Fun Facts Image Sizes ------------------ */
+
+@media (min-width: 576px) {
+    .fun-facts-image {
+        max-width: 70%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .fun-facts-image {
+        max-width: 65%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .fun-facts-image {
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .fun-facts-image {
+        max-width: 40%;
+        height: auto;
     }
 }
