@@ -107,6 +107,11 @@ a.navbar-brand {
     background-color: #ff536e;
 }
 
+.img-thumbnail {
+    background-color: #d6efcf;
+    border-color: #d6efcf;
+}
+
 .my-col {
     padding: 15px;
 }
