@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Open+Sans:wght@400;600;700&display=swap');
 
+/* Resource - https://imagecolorpicker.com/ for choosing colours from Hero Image Strawberry */
+/* Resource - https://tinyjpg.com/ - for downsizing images while retaining quality */
+
 body {
     padding: 0;
     border: 0;
@@ -103,7 +106,25 @@ a.navbar-brand {
 #funfacts-page {
     background-color: #ff536e;
 }
-.row {
+
+.my-container {
+    border: 1px solid green;
+}
+
+.my-row {
+    border: 3px solid red;
+    height: 300px;
+}
+
+.my-col {
+    border: 1px solid blue;
+}
+
+.col-xs-6 {
+    max-width: 50%;
+}
+
+/* .row {
     margin: 0;
 }
 .did-you-know.ice-cream,
@@ -139,7 +160,7 @@ img.brownie-image {
 
 img.cake-slice-image {
     bottom: 14px;
-}
+} */
 
 /* -------------------- Fun Facts ------------------- */
 
