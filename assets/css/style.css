@@ -216,9 +216,17 @@ footer {
 
 @media (min-width: 576px) {
     a.navbar-brand {
-        height: 45px;
+        height: 48px;
     }
 }
+
+@media (min-width: 768px) {
+    a.navbar-brand {
+        height: 80px;
+    }
+}
+
+/* --------------- Logo ---------------- */
 
 @media (min-width: 576px) {
     .delicious {
@@ -228,9 +236,23 @@ footer {
 
 @media (min-width: 576px) {
     .monster {
-        font-size: 12px;
-        left: 46px;
+        font-size: 14px;
+        left: 36px;
         bottom: 40px;
+    }
+}
+
+@media (min-width: 768px) {
+    .delicious {
+        font-size: 48px;
+    }
+}
+
+@media (min-width: 768px) {
+    .monster {
+        font-size: 16px;
+        left: 76px;
+        bottom: 46px;
     }
 }
 
@@ -282,16 +304,13 @@ footer {
         width: 20%;
         font-size: 44px;
         top: 18vh;
-        right: 8vh;
     }
 }
 
 @media screen and (min-width: 1200px) { 
     .hero-text-1 {
-        width: 25%;
-        font-size: 70px;
-        top: 18vh;
-        right: 10%;
+        width: 23%;
+        font-size: 60px;
     }
 }
 
@@ -311,7 +330,7 @@ footer {
 
 @media screen and (min-width: 1200px) { 
     .hero-text-2 h5 {
-        font-size: 30px;
+        font-size: 25px;
     }
 }
 
