@@ -2,28 +2,13 @@
 
 # Delicious Monster - Milestone Project 1
 
-## Table of Contents
-
-1. Project purpose and introduction
-2. UXD – User Experience Design
-3. Features
-4. Technologies and Resources used
-5. Testing
-6. Project barriers and solutions
-7. Version Control
-8. Deployment
-9. Credits
-10. Acknowledgments
-
-## 1. Project purpose and introduction
-
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+My goal for this site is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development. Various technological elements were incorporated to offer prospective users a variety of recipes and hints to make sweets and desserts at home. Additionally, it offers some Fun Facts and a quote about desserts in order to put the user in a playful, creative mood.
 
 (Mockup images)
  
 ## 2. UXD – User Experience Design
+
+The target demographic are users aged 8 to 80. With delicious recipes for sweets and desserts ranging from a simple Chocolate Pudding to a challenging Cream Puff. Links are provided for step-by-step instructions and videos. This, together with the weekly newsletter and social media interaction, will result in fun and delicious desserts to be enjoyed by even the most discerning gastronome. 
 
 ### User Stories
 
