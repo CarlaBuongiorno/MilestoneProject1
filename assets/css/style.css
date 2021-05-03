@@ -138,11 +138,17 @@ a.navbar-brand {
 }
 
 
-/* -------------------- Fun Facts ------------------- */
+/* -------------------- Recipes ------------------- */
 
 #recipes-page {
-    background-color: coral;
+    background-color: #d6efcf;
 }
+
+
+
+
+
+/* -------------------- Subscribe ------------------- */
 
 #subscribe-page {
     background-color: darkcyan;
