@@ -103,6 +103,28 @@ a.navbar-brand {
     background-position: center -200%;
 }
 
+.hero-text-1 {
+    width: 45%;
+    font-size: 30px;
+    font-weight: 400;
+    color: #ff536e;
+    position: absolute;
+    top: 20vh;
+    right: 5%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+
+.hero-text-2 h5 {
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #d6efcf;
+    position: absolute;
+    bottom: 5vh;
+    text-align: center;
+}
 
 
 /* -------------------- Fun Facts ------------------- */
@@ -141,49 +163,155 @@ a.navbar-brand {
 /* -------------------- Recipes ------------------- */
 
 #recipes-page {
-    background-color: #d6efcf;
+    background-color: #0a0a0c;
 }
 
+.recipe-page-heading {
+    color: #d6efcf;
+}
 
+.recipe-heading {
+    padding-top: 20px;
+}
 
+.recipes-content {
+    color: #d6efcf;
+    padding: 16px;
+}
 
+.recipe-link {
+    padding-top: 16px;
+}
+
+.recipe-btn {
+    color: #0a0a0c;
+    font-weight: 600;
+    background-color: #ff536e;
+    border: 0;
+    padding-right: 8px;
+    padding-left: 8px;
+}
 
 /* -------------------- Subscribe ------------------- */
 
 #subscribe-page {
-    background-color: darkcyan;
+    background-color: #d6efcf;
 }
 
 footer {
+    background-color: #ff536e;
 }
 
-/* -------------- Media Queries ------------------- */
+/* ------------------- Media Queries ------------------- */
 
-/* ------------- Home Page -------------- */
-
-
-
-/* Medium devices (tablets, 768px) */
-@media screen and (min-width: 768px) { 
-    .hero-image {
-        background-size: 110%;
-        background-position: center 0;
-    }
-}
-
-/* Large devices (desktops, 992px & up) */
-@media screen and (min-width: 992px) { 
-    .hero-image {
-        background-size: 60%;
-        background-position: center 26%;
-    }
-}
+/* --------------- Nav Bar ---------------- */
 
 /* Medium & Large devices (768px & up) */
 @media screen and (min-width: 768px) {
     .navbar-dark .navbar-nav .nav-link {
         color: #d6efcf;
         font-size: 20px;
+    }
+}
+
+@media (min-width: 576px) {
+    a.navbar-brand {
+        height: 45px;
+    }
+}
+
+@media (min-width: 576px) {
+    .delicious {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 576px) {
+    .monster {
+        font-size: 12px;
+        left: 46px;
+        bottom: 40px;
+    }
+}
+
+/* --------------- Hero Image ---------------- */
+
+@media (min-width: 576px) {
+    .hero-image {
+        background-size: 60%;
+        background-position: center 0;
+    }
+}
+
+/* Medium devices (tablets, 768px) */
+@media screen and (min-width: 768px) { 
+    .hero-image {
+        background-size: 65%;
+        background-position: center;
+    }
+}
+
+/* Large devices (desktops, 992px & up) */
+@media screen and (min-width: 992px) {
+    .hero-image {
+        background-size: 50%;
+        background-position: center center;
+    }
+}
+
+/* -------------- Hero Text 1 --------------- */
+
+@media screen and (min-width: 576px) { 
+    .hero-text-1 {
+        width: 22%;
+        font-size: 27px;
+        top: 25vh;
+    }
+}
+
+@media screen and (min-width: 768px) { 
+    .hero-text-1 {
+        width: 30%;
+        font-size: 50px;
+        top: 16vh;
+    }
+}
+
+@media screen and (min-width: 992px) { 
+    .hero-text-1 {
+        width: 20%;
+        font-size: 44px;
+        top: 18vh;
+        right: 8vh;
+    }
+}
+
+@media screen and (min-width: 1200px) { 
+    .hero-text-1 {
+        width: 25%;
+        font-size: 70px;
+        top: 18vh;
+        right: 10%;
+    }
+}
+
+/* -------------- Hero Text 2 --------------- */
+
+@media screen and (min-width: 576px) {
+    .hero-text-2 h5 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .hero-text-2 h5 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1200px) { 
+    .hero-text-2 h5 {
+        font-size: 30px;
     }
 }
 
