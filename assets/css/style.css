@@ -90,16 +90,20 @@ a.navbar-brand {
     background-color: #0a0a0c;
 }
 
+
 .hero-image {
+    /* Credit - https://www.pexels.com/photo/red-strawberry-fruit-2459870/ */
+    background-image: url("../images/hero-image.jpg");
+    width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
     background-size: 150%;
     position: relative;
     background-attachment: fixed;
-    /* Credit - https://www.pexels.com/photo/red-strawberry-fruit-2459870/ */
-    background-image: url("../images/hero-image.jpg");
     background-position: center -200%;
 }
+
+
 
 /* -------------------- Fun Facts ------------------- */
 
@@ -149,6 +153,10 @@ footer {
 
 /* -------------- Media Queries ------------------- */
 
+/* ------------- Home Page -------------- */
+
+
+
 /* Medium devices (tablets, 768px) */
 @media screen and (min-width: 768px) { 
     .hero-image {
@@ -173,13 +181,13 @@ footer {
     }
 }
 
+/* ---------------- Fun Facts Image Sizes ------------------ */
+
 @media (min-width: 576px) {
     .container, .container-sm {
         max-width: 95%;
     }
 }
-
-/* ---------------- Fun Facts Image Sizes ------------------ */
 
 @media (min-width: 576px) {
     .fun-facts-image {
