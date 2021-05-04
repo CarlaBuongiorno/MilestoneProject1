@@ -217,6 +217,10 @@ a.navbar-brand {
     background-color: #d6efcf;
 }
 
+fieldset {
+    padding-bottom: 30px;
+}
+
 footer {
     background-color: #ff536e;
 }
