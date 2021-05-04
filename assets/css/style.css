@@ -230,14 +230,22 @@ button[type="submit"] {
 /* ------------------------------- Footer ------------------------------- */
 
 footer {
-    background-color: #ff536e;
-    padding-top: 15px;
+    background-color: #0a0a0c;
+    padding-top: 20px;
     padding-bottom: 10px;
 }
 
 footer p {
-    padding-top: 10px;
-    font-size: .75rem;
+    color: #d6efcf;
+    padding-top: 20px;
+    font-size: 1rem;
+}
+
+.social-icons {
+    font-size: xx-large;
+    color: #ff536e;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /* ------------------------------- Media Queries ------------------------------- */
@@ -413,5 +421,22 @@ footer p {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
+    }
+}
+
+/* ------------------------------- Footer ------------------------------- */
+
+@media screen and (min-width: 576px) {
+    .social-icons {
+        font-size: xxx-large;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .footer p {
+        padding-top: 30px;
+        font-size: 1.2rem;
     }
 }
