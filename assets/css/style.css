@@ -75,13 +75,6 @@ a.navbar-brand {
     letter-spacing: 0.5px;
     background-color: #ff536e;
     border: 0;
-    padding-right: 8px;
-    padding-left: 8px;
-}
-
-.btn-light:hover {
-    color: #0a0a0c;
-    background-color:#ff536e;
 }
 
 /* ------------- Home Page -------------- */
@@ -217,16 +210,30 @@ a.navbar-brand {
     background-color: #d6efcf;
 }
 
-fieldset {
+.form-heading {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+/* Credit -> Code Institute: Putting It All Together | Mini Project with Bootstrap 4 : Styling the Form */
+.center-form {
+    margin: 0 auto;
+    max-width: 80%;
     padding-bottom: 30px;
 }
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+/* -------------------- Footer ------------------- */
 
 footer {
     background-color: #ff536e;
 }
 
 /* ------------------- Media Queries ------------------- */
-
 /* --------------- Nav Bar ---------------- */
 
 /* Medium & Large devices (768px & up) */
@@ -392,5 +399,15 @@ footer {
     .fun-facts-image {
         max-width: 40%;
         height: auto;
+    }
+}
+
+/* -------------------- Subscribe ------------------- */
+
+@media screen and (min-width: 992px) {
+    .center-form {
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
     }
 }
