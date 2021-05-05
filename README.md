@@ -1,6 +1,6 @@
 # Delicious Monster - Milestone Project 1
 
-A comprehensive website incorporating various technological elements to offer prospective users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some 'Fun Facts' and a quote about desserts in order to put the user in a playful, creative mood.
+A comprehensive website incorporating various technological elements to offer prospective users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
 
 My goal for this website is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development.
 
@@ -33,24 +33,26 @@ The site is designed so that upon entering, the user immediately anticipates a s
 
 ### Scope
 
-For the initial release of this website, I have decided on a Minimal Viable Product approach - considering my current skillset is at beginner level.
+For the initial release of this website, I have decided on a "Minimal Viable Product" approach - considering my current skillset is at beginner level.
 
 Features include:
 - The ability to navigate with ease through a single page site; either by scrolling through the varous sections, or by clicking on the links on the navigation bar - which is always in view.
-- An eye catching, aesthetically pleasing 'Home' page.
-- A 'Fun Facts' section to grab the users attention.
-- A 'Recipes' section that is minimal and comprehensible through layout, with links to the preferred recipe which open on a new page so that users can easily return to the main site.
+- An eye catching, aesthetically pleasing __Home__ page.
+- A __Fun Facts__ section to grab the users attention.
+- A __Recipes__ section that is minimal and comprehensible due to the layout. Links to step-by-step instructions are provided for each recipe which opens in a new tab so that users can easily return to the site.
 - A step-by-step video for the user to be inspired to take immediate action followingin the kitchen.
-- A 'Subscribe | Contact Us' form for more free recipes and weekly newsletter.
+- A __Subscribe | Contact Us__ form for more free recipes and weekly newsletter.
 - A footer with a copyright and social media links for user to interact and become part of the Monster Delicious Community.
 
 ### Structure
 
 I have intentionally created a single page website with minimal written content in order for the user not to feel overwhelmed, but rather inspired. 
 
-The pictures in the 'Fun Facts' section are purely for aesthetic purposes, matching the short and fun 'Did You Know?' pieces.
+The __Home__ sections features a hero image with a navigation bar, and a small piece of information inviting the user to discover the dessert recipes below.
 
-The 'Recipes' section features:-
+The pictures in the __Fun Facts__ section are purely for aesthetic purposes, matching the short and fun 'Did You Know?' pieces.
+
+The __Recipes__ section features:-
 - several recipes
 - each with a picture of the dessert
 - a short but tantalizing description
@@ -60,9 +62,9 @@ The 'Recipes' section features:-
 - a link to an external page containing step-by-step instructions, pictures and videos.
 - a step-by-step video of one of the above recipes for immediate inspiration and action.
 
-The form is simple and clean. Subscription promises 100s more free recipes and a weekly newsletter.
+The __Subscription | Contact Us__ form is simple and clean. Subscription promises 100s more free recipes and a weekly newsletter.
 
-The footer features linked icons for easy access to social media, which all open on seperate pages.
+The footer features linked icons for ease of access to social media, which all open on seperate pages.
 
 ### Skeleton
 
@@ -76,7 +78,7 @@ The footer features linked icons for easy access to social media, which all open
 
 - #### Colours
 
-I have decided to base my project colours upon the in the strawberry hero image. I used a colour picker tool called "Color Picker" to pick out 3 colours from my hero image. I then defined each section by 1 of the 3 colours:
+I have decided to base my project colours upon the in the strawberry hero image. I used a colour picker tool to pick out 3 colours from my hero image. I then defined each section by 1 of the 3 colours:
 
 1. Black #0a0a0c
 2. Pink #ff536e
@@ -88,12 +90,12 @@ I used these colours interchangeably within the content of the site to keep cons
 
 I selected 2 different fonts for this site: 
 
-1. Dancing Script, (cursive) - For the main headings to bring in a feeling of playfulness and excitement.
-2. Open Sans, (sans-serif) - For the main content for contrast and ease of reading.
+1. "Dancing Script", (cursive) - For the main headings to bring in a feeling of playfulness and excitement.
+2. "Open Sans", (sans-serif) - For the main content for contrast and ease of reading.
 
-- #### Images and Video
+- #### Images
 
-The images
+The images I selected are eye catching with the intention to tickle the taste buds. The recipe images are directly related to the dessert being focused on.
 
 ## 3. Features
 
