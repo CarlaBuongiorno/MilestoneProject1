@@ -1,42 +1,99 @@
-(hero image here)
-
 # Delicious Monster - Milestone Project 1
 
-My goal for this site is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development. Various technological elements were incorporated to offer prospective users a variety of recipes and hints to make sweets and desserts at home. Additionally, it offers some Fun Facts and a quote about desserts in order to put the user in a playful, creative mood.
+A comprehensive website incorporating various technological elements to offer prospective users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some 'Fun Facts' and a quote about desserts in order to put the user in a playful, creative mood.
+
+My goal for this website is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development.
 
 (Mockup images)
  
 ## 2. UXD – User Experience Design
 
-The target demographic are users aged 8 to 80. With delicious recipes for sweets and desserts ranging from a simple Chocolate Pudding to a challenging Cream Puff. Links are provided for step-by-step instructions and videos. This, together with the weekly newsletter and social media interaction, will result in fun and delicious desserts to be enjoyed by even the most discerning gastronome. 
+The target demographic are users aged 8 to 80. With delicious recipes for sweets and desserts ranging from a simple Chocolate Pudding to a challenging Cream Puff. Links are provided for step-by-step instructions and videos. This, together with the subcription for access to many more free recipes, a weekly newsletter, and social media interaction, will result in fun and delicious desserts to be enjoyed by even the most discerning gastronome. 
 
-### User Stories
-
-Potential customers..... (Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-)
-
-- As a site visitor, I wish to understand how to navigate this site, so that I can find what I am looking for easily.
-- As a site visitor, I wish to view this site on all my devices.
-- As a site visitor, I wish to download the recipes as PDF, so that I have them.
-- As a site visitor, I wish to be able to subscribe to a newsletter in order to get the latest recipes.
-- As a site visitor, I wish to have visible access to social media, so I can follow and be a part of the community.
 
 ### Strategy
 
+#### Customer Goals
+
+Visitors to this website are searching for easy to follow dessert recipes that promises a delicious and aesthetically pleasing outcome.
+
+#### Project Goals
+
+This project is the best way to help them achieve this because it is easy to navigate, whether by mobile, tablet, or desktop. The navigation bar is always in the viewport no matter where in the site the user has navigated to.
+
+The site is designed so that upon entering, the user immediately anticipates a sense of deliciousness and feels inspired enough to Subscribe - being the ultimate goal of this website.
+
+#### User Stories
+
+1. As a site visitor, I wish to understand how to navigate this site, so that I can find what I am looking for easily.
+2. As a site visitor, I wish to view this site on all my devices.
+3. As a site visitor, I wish to feel inspired by what I see and find on this site.
+4. As a site visitor, I wish to be able to subscribe to a newsletter in order to have access the latest recipes.
+5. As a site visitor, I wish to have visible access to social media, so I can follow and be a part of the community.
+
 ### Scope
+
+For the initial release of this website, I have decided on a Minimal Viable Product approach - considering my current skillset is at beginner level.
+
+Features include:
+- The ability to navigate with ease through a single page site; either by scrolling through the varous sections, or by clicking on the links on the navigation bar - which is always in view.
+- An eye catching, aesthetically pleasing 'Home' page.
+- A 'Fun Facts' section to grab the users attention.
+- A 'Recipes' section that is minimal and comprehensible through layout, with links to the preferred recipe which open on a new page so that users can easily return to the main site.
+- A step-by-step video for the user to be inspired to take immediate action followingin the kitchen.
+- A 'Subscribe | Contact Us' form for more free recipes and weekly newsletter.
+- A footer with a copyright and social media links for user to interact and become part of the Monster Delicious Community.
 
 ### Structure
 
+I have intentionally created a single page website with minimal written content in order for the user not to feel overwhelmed, but rather inspired. 
+
+The pictures in the 'Fun Facts' section are purely for aesthetic purposes, matching the short and fun 'Did You Know?' pieces.
+
+The 'Recipes' section features:-
+- several recipes
+- each with a picture of the dessert
+- a short but tantalizing description
+- quick to understand information about the total time it takes to complete the recipe
+- the skilllevel it requires
+- the amount of servings it renders
+- a link to an external page containing step-by-step instructions, pictures and videos.
+- a step-by-step video of one of the above recipes for immediate inspiration and action.
+
+The form is simple and clean. Subscription promises 100s more free recipes and a weekly newsletter.
+
+The footer features linked icons for easy access to social media, which all open on seperate pages.
+
 ### Skeleton
 
-[Wireframes:](wireframes/wireframes.pdf)
+- [Wireframes:](wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
+1. Home
+2. Fun Facts
+3. Recipes
+4. Subscribe | Contact Us
 
 ### Surface
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- #### Colours
+
+I have decided to base my project colours upon the in the strawberry hero image. I used a colour picker tool called "Color Picker" to pick out 3 colours from my hero image. I then defined each section by 1 of the 3 colours:
+
+1. Black #0a0a0c
+2. Pink #ff536e
+3. Mint #d6efcf
+
+I used these colours interchangeably within the content of the site to keep consistency thoughout.
+
+- #### Typography
+
+I selected 2 different fonts for this site: 
+
+1. Dancing Script, (cursive) - For the main headings to bring in a feeling of playfulness and excitement.
+2. Open Sans, (sans-serif) - For the main content for contrast and ease of reading.
+
+- #### Images and Video
+
+The images
 
 ## 3. Features
 
