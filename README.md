@@ -68,7 +68,7 @@ The footer features linked icons for ease of access to social media, which all o
 
 ### Skeleton
 
-- [Wireframes:](wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
+- [Wireframes:](assets/wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
 1. Home
 2. Fun Facts
 3. Recipes
@@ -115,6 +115,16 @@ In addition, you may also use this section to discuss plans for additional featu
 - Another feature idea
 
 ## 4. Technologies and Resources Used
+
+https://tinyjpg.com/ - for downsizing images while retaining quality */
+https://imagecolorpicker.com/ for choosing colours from Hero Image Strawberry
+MS1 Planning Session - Jim Lynx https://www.youtube.com/watch?v=sH0m9N875SU&list=PLrq7lxF8EYVrvcejINzdH1RtqB2Ax7TlK&index=1
+Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL https://www.youtube.com/watch?v=qmPmwdshCMw
+ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
+README.md example - https://github.com/AJGreaves/portrait-artist
+https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
+
+
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
