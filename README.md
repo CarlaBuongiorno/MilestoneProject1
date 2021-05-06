@@ -1,6 +1,6 @@
 # Delicious Monster - Milestone Project 1
 
-A comprehensive website incorporating various technological elements to offer prospective users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
+A comprehensive website incorporating various technological elements to offer users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
 
 My goal for this website is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development.
 
@@ -42,7 +42,7 @@ Features include:
 - A __Recipes__ section that is minimal and comprehensible due to the layout. Links to step-by-step instructions are provided for each recipe which opens in a new tab so that users can easily return to the site.
 - A step-by-step video for the user to be inspired to take immediate action followingin the kitchen.
 - A __Subscribe | Contact Us__ form for more free recipes and weekly newsletter.
-- A footer with a copyright and social media links for user to interact and become part of the Monster Delicious Community.
+- A footer with a copyright and social media links for user to interact and become part of the Delicious Monster Community.
 
 ### Structure
 
@@ -60,7 +60,7 @@ The __Recipes__ section features:-
 - the skilllevel it requires
 - the amount of servings it renders
 - a link to an external page containing step-by-step instructions, pictures and videos.
-- a step-by-step video of one of the above recipes for immediate inspiration and action.
+- a step-by-step video of one of the above recipes for immediate inspiration, and action.
 
 The __Subscription | Contact Us__ form is simple and clean. Subscription promises 100s more free recipes and a weekly newsletter.
 
