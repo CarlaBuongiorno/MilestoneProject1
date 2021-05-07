@@ -104,7 +104,7 @@ a.navbar-brand {
     /* Credit - https://www.pexels.com/photo/red-strawberry-fruit-2459870/ */
     background-image: url("../images/hero-image.jpg");
     width: 100%;
-    height: 90vh;
+    height: 85vh;
     margin-top: 96px;
     background-repeat: no-repeat;
     background-size: 90%;
@@ -115,7 +115,7 @@ a.navbar-brand {
 
 .hero-text-1 {
     width: 42%;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 400;
     color: #ff536e;
     position: absolute;
@@ -127,7 +127,7 @@ a.navbar-brand {
 
 .hero-text-2 h5 {
     width: 100%;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     color: #d6efcf;
     position: absolute;
