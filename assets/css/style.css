@@ -21,6 +21,10 @@ h2.recipe-page-heading {
     color: #d6efcf;
 }
 
+h3 {
+    color: #d6efcf;
+}
+
 h4 {
     font-weight: 700;
     font-size: 20px;
@@ -30,12 +34,6 @@ h4 {
 
 h4.recipe-heading,
 h4.video-heading {
-    color: #d6efcf;
-}
-
-
-
-h3 {
     color: #d6efcf;
 }
 
@@ -114,8 +112,8 @@ a.navbar-brand {
 }
 
 .hero-text-1 {
-    width: 41%;
-    font-size: 20px;
+    width: 40%;
+    font-size: 23px;
     font-weight: 400;
     color: #ff536e;
     position: absolute;
@@ -126,15 +124,15 @@ a.navbar-brand {
 }
 
 .hero-text-2 h5 {
-    width: 100%;
+    width: 80%;
     font-size: 12px;
     font-weight: 400;
     color: #d6efcf;
     position: absolute;
     bottom: 10vh;
+    left: 10%;
     text-align: center;
 }
-
 
 /* ------------------------------- Fun Facts ------------------------------- */
 
