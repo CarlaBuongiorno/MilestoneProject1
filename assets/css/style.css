@@ -115,7 +115,7 @@ a.navbar-brand {
 
 .hero-text-1 {
     width: 42%;
-    font-size: 27px;
+    font-size: 25px;
     font-weight: 400;
     color: #ff536e;
     position: absolute;
@@ -127,11 +127,11 @@ a.navbar-brand {
 
 .hero-text-2 h5 {
     width: 100%;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: #d6efcf;
     position: absolute;
-    bottom: 5vh;
+    bottom: 10vh;
     text-align: center;
 }
 
