@@ -192,6 +192,10 @@ a.hero-text-recipes:hover {
     background-color: #0a0a0c;
 }
 
+.my-col-recipes {
+    padding: 15px 1px;
+}
+
 .recipes-content {
     color: #0a0a0c;
     background-color: #d6efcf;
@@ -302,7 +306,7 @@ footer .social-icons {
 
 @media (min-width: 992px) {
     .container {
-        max-width: 80%%;
+        max-width: 80%;
     }
 }
 
@@ -471,6 +475,14 @@ footer .social-icons {
 @media screen and (min-width: 768px) {
     .blockquote {
         padding-bottom: 30px;
+    }
+}
+
+/* ------------------------------- Recipes ------------------------------- */
+
+@media screen and (min-width: 768px) {
+    .my-col-recipes {
+        padding: 15px;
     }
 }
 
