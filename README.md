@@ -1,11 +1,12 @@
-# Delicious Monster - Milestone Project 1
+<h1 align="center">Delicious Monster</h1>
 
-A comprehensive website incorporating various technological elements to offer users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
 
-My goal for this website is to satisfy the requirements of the Code Institute’s Milestone Project 1 - User Centric Front-End Development.
+[View the live site here](https://carlabuongiorno.github.io/MilestoneProject1/)
 
-(Mockup images)
- 
+Delicious Monster is a comprehensive website incorporating various technological elements to offer users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
+
+![Responsive mockup of the website](https://carlabuongiorno.github.io/MilestoneProject1/assets/responsive/responsive.png)
+
 ## 2. UXD – User Experience Design
 
 The target demographic are users aged 8 to 80. With delicious recipes for sweets and desserts ranging from a simple Chocolate Pudding to a challenging Cream Puff. Links are provided for step-by-step instructions and videos. This, together with the subcription for access to many more free recipes, a weekly newsletter, and social media interaction, will result in fun and delicious desserts to be enjoyed by even the most discerning gastronome. 
