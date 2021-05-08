@@ -91,6 +91,10 @@ a.navbar-brand {
     border: 0;
 }
 
+.subscribe-btn:hover {
+    background-color: #d6efcf;
+}
+
 /* ------------------------------- Home Page ------------------------------- */
 
 #home-page {
@@ -132,6 +136,14 @@ a.navbar-brand {
     bottom: 10vh;
     left: 10%;
     text-align: center;
+}
+
+.hero-text-recipes {
+    color: #ff536e;
+}
+
+a.hero-text-recipes:hover {
+    color: #ff536e;
 }
 
 /* ------------------------------- Fun Facts ------------------------------- */
@@ -194,6 +206,10 @@ a.navbar-brand {
     padding-left: 8px;
 }
 
+.recipe-btn:hover {
+    background-color: #d6efcf;
+}
+
 /* Cerdit -> To make video responsive https://css-tricks.com/fluid-width-video/ */
 .videoWrapper {
     position: relative;
@@ -243,6 +259,11 @@ a.navbar-brand {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
+}
+
+.subscribe-btn-form:hover {
+    background-color: #0a0a0c;
+    color: #d6efcf;
 }
 
 /* ------------------------------- Footer ------------------------------- */
@@ -410,7 +431,7 @@ footer .social-icons {
     .hero-text-2 h5 {
         font-size: 25px;
     }
-}
+}      
 
 /* ------------------------------- Fun Facts ------------------------------- */
 
