@@ -32,7 +32,11 @@ h4 {
     padding-top: 20px;
 }
 
-h4.recipe-heading,
+h4.recipe-heading {
+    color: #0a0a0c;
+}
+
+
 h4.video-heading {
     color: #d6efcf;
 }
@@ -189,13 +193,13 @@ a.hero-text-recipes:hover {
 }
 
 .recipes-content {
-    color: #d6efcf;
-    padding: 16px 16px 50px;
+    color: #0a0a0c;
+    background-color: #d6efcf;
 }
 
-.recipe-link {
+/* .recipe-link {
     padding-top: 16px;
-}
+} */
 
 .recipe-btn {
     color: #0a0a0c;
@@ -207,7 +211,8 @@ a.hero-text-recipes:hover {
 }
 
 .recipe-btn:hover {
-    background-color: #d6efcf;
+    background-color: #0a0a0c;
+    color: #d6efcf;
 }
 
 /* Cerdit -> To make video responsive https://css-tricks.com/fluid-width-video/ */
