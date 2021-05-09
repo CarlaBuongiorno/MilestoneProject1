@@ -77,24 +77,23 @@ The footer features linked icons for ease of access to social media, which all o
 
 ### Surface
 
-- #### Colours
-
-I have decided to base my project colours upon the in the strawberry hero image. I used a colour picker tool to pick out 3 colours from my hero image. I then defined each section by 1 of the 3 colours:
-
+#### Colours
 1. Black #0a0a0c
 2. Pink #ff536e
 3. Mint #d6efcf
 
+I decided to use a colour picker tool to pick out 3 colours from my hero image. I then defined each section by 1 of these 3 colours.
+
 I used these colours interchangeably within the content of the site to keep consistency thoughout.
 
-- #### Typography
+#### Typography
 
 I selected 2 different fonts for this site: 
 
 1. "Dancing Script", (cursive) - For the main headings to bring in a feeling of playfulness and excitement.
 2. "Open Sans", (sans-serif) - For the main content for contrast and ease of reading.
 
-- #### Images
+#### Images
 
 The images I selected are eye catching with the intention to tickle the taste buds. The recipe images are directly related to the dessert being focused on.
 
@@ -124,6 +123,7 @@ Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL https://www.youtube.com/watch?
 ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
 README.md example - https://github.com/AJGreaves/portrait-artist
 https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
+https://favicon.io/favicon-generator/
 
 
 
