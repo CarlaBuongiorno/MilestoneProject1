@@ -5,7 +5,7 @@
 
 Delicious Monster is a comprehensive website incorporating various technological elements to offer users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
 
-![Responsive mockup of the website](https://carlabuongiorno.github.io/MilestoneProject1/assets/responsive/responsive.png)
+![Responsive mockup of the website](https://github.com/CarlaBuongiorno/MilestoneProject1/assets/images/responsive/responsive-img.png)
 
 ## 2. UXD – User Experience Design
 
