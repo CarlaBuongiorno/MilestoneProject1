@@ -204,6 +204,11 @@ a.hero-text-recipes:hover {
     margin: 0 auto;
 }
 
+.card {
+    background-color: #d6efcf;
+    border: 4px solid #d6efcf;
+}
+
 .card-body {
     padding-bottom: 2rem;
 }
