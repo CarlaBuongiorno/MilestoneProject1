@@ -76,11 +76,14 @@ h1.error-heading {
     color: #ff536e;
     font-size: 50px;
     font-weight: 400;
+    padding-top: 200px;
 }
 
 h2.error-content {
     color: #d6efcf;
-    font-size: 40px;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 30px;
 }
 
 /* ------------------------------- Navigation ------------------------------- */
