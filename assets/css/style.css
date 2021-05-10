@@ -141,11 +141,10 @@ a.navbar-brand {
     margin: 0;
 }
 
-.hero-text-2 h5 {
+.hero-text-2 h3 {
     width: 80%;
     font-size: 12px;
     font-weight: 400;
-    color: #d6efcf;
     position: absolute;
     bottom: 10vh;
     left: 10%;
@@ -442,20 +441,20 @@ footer .social-icons {
 /* ------------------------------- Hero Text 2 ------------------------------- */
 
 @media screen and (min-width: 576px) {
-    .hero-text-2 h5 {
+    .hero-text-2 h3 {
         font-size: 12px;
         bottom: 5vh;
     }
 }
 
 @media screen and (min-width: 768px) {
-    .hero-text-2 h5 {
+    .hero-text-2 h3 {
         font-size: 20px;
     }
 }
 
 @media screen and (min-width: 1200px) { 
-    .hero-text-2 h5 {
+    .hero-text-2 h3 {
         font-size: 25px;
     }
 }      
