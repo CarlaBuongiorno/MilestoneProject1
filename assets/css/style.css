@@ -13,7 +13,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-h2 {
+h1 {
     color: #0a0a0c;
     font-family: 'Dancing Script', cursive;
     font-size: 56px;
@@ -22,11 +22,11 @@ h2 {
     padding: 100px 0 70px;
 }
 
-h2.recipe-page-heading {
+h1.recipe-page-heading {
     color: #d6efcf;
 }
 
-h2.hero-text-1 {
+h1.hero-text-1 {
     width: 40%;
     color: #ff536e;
     font-size: 23px;
@@ -38,7 +38,7 @@ h2.hero-text-1 {
     margin: 0;
 }
 
-h3.hero-text-2 {
+h2.hero-text-2 {
     width: 80%;
     color: #d6efcf;
     font-size: 12px;
@@ -49,18 +49,18 @@ h3.hero-text-2 {
     text-align: center;
 }
 
-h3 {
+h2 {
     color: #0a0a0c;
     font-weight: 700;
     font-size: 20px;
     padding-top: 20px;
 }
 
-h3.did-you-know-heading {
+h2.did-you-know-heading {
     margin-bottom: 20px;
 }
 
-h3.video-heading {
+h2.video-heading {
     color: #d6efcf;
     font-size: 18px;
     padding-top: 40px;
@@ -400,7 +400,7 @@ footer .social-icons {
 /* ------------------------------- Hero Text 1 ------------------------------- */
 
 @media screen and (min-width: 576px) { 
-    h2.hero-text-1 {
+    h1.hero-text-1 {
         width: 22%;
         font-size: 27px;
         top: 25vh;
@@ -408,7 +408,7 @@ footer .social-icons {
 }
 
 @media screen and (min-width: 768px) { 
-    h2.hero-text-1 {
+    h1.hero-text-1 {
         width: 30%;
         font-size: 50px;
         top: 16vh;
@@ -417,7 +417,7 @@ footer .social-icons {
 }
 
 @media screen and (min-width: 992px) { 
-    h2.hero-text-1 {
+    h1.hero-text-1 {
         width: 20%;
         font-size: 44px;
         top: 18vh;
@@ -425,7 +425,7 @@ footer .social-icons {
 }
 
 @media screen and (min-width: 1200px) { 
-    h2.hero-text-1 {
+    h1.hero-text-1 {
         width: 23%;
         font-size: 60px;
         top: 25vh;
@@ -435,20 +435,20 @@ footer .social-icons {
 /* ------------------------------- Hero Text 2 ------------------------------- */
 
 @media screen and (min-width: 576px) {
-    h3.hero-text-2 {
+    h2.hero-text-2 {
         font-size: 12px;
         bottom: 5vh;
     }
 }
 
 @media screen and (min-width: 768px) {
-    h3.hero-text-2 {
+    h2.hero-text-2 {
         font-size: 20px;
     }
 }
 
 @media screen and (min-width: 1200px) { 
-    h3.hero-text-2 {
+    h2.hero-text-2 {
         font-size: 25px;
     }
 }      
