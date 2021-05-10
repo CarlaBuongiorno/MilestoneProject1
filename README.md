@@ -124,6 +124,9 @@ ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
 README.md example - https://github.com/AJGreaves/portrait-artist
 https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
 https://favicon.io/favicon-generator/
+https://autoprefixer.github.io/ - Autoprefixer CSS online
+https://validator.w3.org/#validate_by_uri W3C Markup Validation Service
+https://jigsaw.w3.org/css-validator/#validate_by_uri W3C CSS Validation Service
 
 
 
