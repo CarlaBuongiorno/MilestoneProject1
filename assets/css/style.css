@@ -317,6 +317,17 @@ footer .social-icons {
     padding-right: 20px;
 }
 
+/* ------------------------------- Footer ------------------------------- */
+
+/* Credit -> https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b */
+
+.error-footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
+
 /* ------------------------------- Media Queries ------------------------------- */
 
 @media screen and (min-width: 768px) {
