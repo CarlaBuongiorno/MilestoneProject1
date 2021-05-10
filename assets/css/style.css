@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Open+Sans:wght@400;600;700&display=swap');
 
 body {
+    background-color: #0a0a0c;
     padding: 0;
     border: 0;
     font-family: 'Open Sans', sans-serif;
@@ -127,11 +128,6 @@ a.navbar-brand {
 
 /* ------------------------------- Home Page ------------------------------- */
 
-#home-page {
-    background-color: #0a0a0c;
-}
-
-
 .hero-image {
     /* Credit - https://www.pexels.com/photo/red-strawberry-fruit-2459870/ */
     background-image: url("../images/hero-image.jpg");
@@ -188,10 +184,6 @@ a.hero-text-recipes:hover {
 }
 
 /* ------------------------------- Recipes ------------------------------- */
-
-#recipes-page {
-    background-color: #0a0a0c;
-}
 
 .my-col-recipes {
     padding: 15px 1px;
