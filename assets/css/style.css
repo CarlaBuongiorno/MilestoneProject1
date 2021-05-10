@@ -22,10 +22,6 @@ h1 {
     padding: 100px 0 70px;
 }
 
-h1.recipe-page-heading {
-    color: #d6efcf;
-}
-
 h1.hero-text-1 {
     width: 40%;
     color: #ff536e;
@@ -36,6 +32,10 @@ h1.hero-text-1 {
     text-align: right;
     padding: 0;
     margin: 0;
+}
+
+h1.recipe-page-heading {
+    color: #d6efcf;
 }
 
 h2.hero-text-2 {
