@@ -124,10 +124,6 @@ ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
 README.md example - https://github.com/AJGreaves/portrait-artist
 https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
 https://favicon.io/favicon-generator/
-https://autoprefixer.github.io/ - Autoprefixer CSS online
-https://validator.w3.org/#validate_by_uri W3C Markup Validation Service
-https://jigsaw.w3.org/css-validator/#validate_by_uri W3C CSS Validation Service
-
 
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
@@ -137,6 +133,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 
 ## 5. Testing
+
+https://jigsaw.w3.org/css-validator/validator - css validator
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
