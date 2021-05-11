@@ -77,14 +77,14 @@ h1.error-heading {
     color: #ff536e;
     font-size: 50px;
     font-weight: 400;
-    padding-top: 200px;
+    padding: 150px 0 40px;
 }
 
 h2.error-content {
     color: #d6efcf;
     font-size: 25px;
     font-weight: 500;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 /* ------------------------------- Navigation ------------------------------- */
@@ -449,6 +449,19 @@ footer p {
         top: 25vh;
     }
 }
+
+/* ------------------------------- 404 Heading ------------------------------- */
+
+@media screen and (min-width: 768px) { 
+h1.error-heading {
+    padding: 200px 0 70px;
+    }
+}
+
+@media screen and (min-width: 768px) { 
+    h2.error-content {
+        padding-bottom: 50px;
+    }
 
 /* ------------------------------- Hero Text 2 ------------------------------- */
 
