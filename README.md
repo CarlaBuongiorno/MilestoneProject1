@@ -116,20 +116,24 @@ The images I selected are eye catching with the intention to tickle the taste bu
 
 ## 4. Technologies and Resources Used
 
-https://tinyjpg.com/ - for downsizing images while retaining quality */
-https://imagecolorpicker.com/ for choosing colours from Hero Image Strawberry
-MS1 Planning Session - Jim Lynx https://www.youtube.com/watch?v=sH0m9N875SU&list=PLrq7lxF8EYVrvcejINzdH1RtqB2Ax7TlK&index=1
-Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL https://www.youtube.com/watch?v=qmPmwdshCMw
-ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
-README.md example - https://github.com/AJGreaves/portrait-artist
-https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
-https://favicon.io/favicon-generator/
+### Languages
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+### Frameworks, Libraries & Programs Used
+- [Code Instutute](https://codeinstitute.net/) was the main source of information used to create this project.
+- [Balsamiq](https://balsamiq.com/) was used to create the [wireframes:](assets/wireframes/wireframes.pdf) during the design process.
+- [Bootstrap 4.6.0](https://www.bootstrapcdn.com/) This project uses Bootstrap to help with the responsiveness and styling of the website.
+- [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) was used to add icons to the website for UX purposes
+- [Google Fonts](https://fonts.google.com/) was used to import the fonts that were used throughout the project.
+- [jQuery](https://jquery.com/) came with Bootstrap which helped to make the navbar responsive.
+- [Gitpod](https://gitpod.io/workspaces/) was used as the IDE to develop this website.
+- [Git](https://git-scm.com/) was used for version control and to Push code to GitHub.
+- [GitHub](https://github.com/) is used to store this project's code after being pushed from Git.
+- [Favicon Generator](https://favicon.io/favicon-generator/) was used for this websites favicon.
+- [TinyJPG](https://tinyjpg.com/) was used for downsizing all images in the site while retaining quality.
+- [Color Picker](https://imagecolorpicker.com/) was used for choosing colours from the Hero Image Strawberry.
+- [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to add vendor prefixes.
 
 
 ## 5. Testing
@@ -171,6 +175,12 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## 9. Credits
+
+MS1 Planning Session - Jim Lynx https://www.youtube.com/watch?v=sH0m9N875SU&list=PLrq7lxF8EYVrvcejINzdH1RtqB2Ax7TlK&index=1
+Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL https://www.youtube.com/watch?v=qmPmwdshCMw
+ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
+README.md example - https://github.com/AJGreaves/portrait-artist
+https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
