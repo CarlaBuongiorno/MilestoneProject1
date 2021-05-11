@@ -9,9 +9,10 @@
 
 body {
     background-color: #0a0a0c;
-    padding: 0;
+    padding: 0 0 80px;
     border: 0;
     font-family: 'Open Sans', sans-serif;
+    position: relative;
 }
 
 /* ------------------------------- Headings ------------------------------- */
@@ -300,32 +301,28 @@ button[type="submit"] {
 
 footer {
     background-color: #0a0a0c;
-    padding-top: 20px;
-    padding-bottom: 10px;
+    position: absolute;
+    bottom: 0;
+}
+
+ul.social-icons {
+    margin: 0;
+    padding: 1.5% 0 0;
+}
+
+.social-icons li {
+    display: inline;
+}
+
+.social-icons i {
+    color: #ff536e;
+    font-size: 200%;
+    padding: 2%;
 }
 
 footer p {
     color: #d6efcf;
-    padding-top: 20px;
     font-size: 1rem;
-}
-
-footer .social-icons {
-    font-size: xx-large;
-    color: #ff536e;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-/* ------------------------------- Footer ------------------------------- */
-
-/* Credit -> https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b */
-
-.error-footer {
-    clear: both;
-    position: relative;
-    height: 200px;
-    margin-top: -200px;
 }
 
 /* ------------------------------- Media Queries ------------------------------- */
@@ -550,17 +547,22 @@ footer .social-icons {
 
 /* ------------------------------- Footer ------------------------------- */
 
-@media screen and (min-width: 576px) {
-    .social-icons {
-        font-size: xx-large;
-        padding-left: 30px;
-        padding-right: 30px;
+@media screen and (min-width: 992px) {
+ul.social-icons {
+    padding: 0;
+    }
+}
+
+@media screen and (min-width: 992px) {
+.social-icons i {
+    color: #ff536e;
+    font-size: 200%;
+    padding: 1% 2%;
     }
 }
 
 @media screen and (min-width: 576px) {
     .footer p {
-        padding-top: 30px;
         font-size: 1.2rem;
     }
 }.example {
