@@ -98,21 +98,21 @@ I selected 2 different fonts for this site:
 The images I selected are eye catching with the intention to tickle the taste buds. The recipe images are directly related to the dessert being focused on.
 
 ## 3. Features
-
-Decided to keep the nav bar expanded for tablet screen.
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+ - 1 Page site with 4 main sections.
+ - Navigation bar which takes the user to each section and is responsive.
+ - Footer with copyright and Social links.
+ - Responsive images sized for different screen views.
+ - Subscribe form with a checked checkbox to subscribe for free recipes and a newsletter, as well as the possiblity to write a message containing feedback of the recipes.
+ - Recipes section features 6 recipe cards with links to external pages in order to see the complete recipe.
+ - Recipes section also features an embedded YouTube video of a step-by-step recipe.
+ - A 404 page to help the user navigate back home.
 
 ### Features Left to Implement
-- Another feature idea
+- Form submission button to be functional.
+- Recipe links will be directed to my own recipe pages, designed consistently with respect to the main website.
+- Social media links to Delicious Monster business pages.
 
 ## 4. Technologies and Resources Used
 
