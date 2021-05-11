@@ -302,7 +302,7 @@ button[type="submit"] {
 /* Credit: to keep the footer at the bottom -> https://www.youtube.com/watch?v=US_3XvufMLU */
 /* Credit: Social icons styling -> Code Institute 'Love Running' project */
 
-footer {
+footer.copyright-footer {
     background-color: #0a0a0c;
     position: absolute;
     bottom: 0;
