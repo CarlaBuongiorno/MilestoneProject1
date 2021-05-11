@@ -82,9 +82,9 @@ h1.error-heading {
 
 h2.error-content {
     color: #d6efcf;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 500;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 /* ------------------------------- Navigation ------------------------------- */
@@ -460,7 +460,7 @@ h1.error-heading {
 
 @media screen and (min-width: 768px) { 
     h2.error-content {
-        padding-bottom: 50px;
+        font-size: 25px;
     }
 
 /* ------------------------------- Hero Text 2 ------------------------------- */
