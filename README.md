@@ -121,7 +121,6 @@ The images I selected are eye catching with the intention to tickle the taste bu
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
-- [Code Instutute](https://codeinstitute.net/) was the main source of information used to create this project.
 - [Balsamiq](https://balsamiq.com/) was used to create the [wireframes:](assets/wireframes/wireframes.pdf) during the design process.
 - [Bootstrap 4.6.0](https://www.bootstrapcdn.com/) This project uses Bootstrap to help with the responsiveness and styling of the website.
 - [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) was used to add icons to the website for UX purposes
@@ -135,6 +134,18 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [Color Picker](https://imagecolorpicker.com/) was used for choosing colours from the Hero Image Strawberry.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to add vendor prefixes.
 
+### Resources
+- [Code Instutute](https://codeinstitute.net/) was the main source of information used to create this project.
+- [Code Institute 'Slack' Community](https://slack.com/intl/en-no/) for their general assistance and feedback.
+- [Stack Overflow](https://stackoverflow.com/) was used as a general source of knowledge.
+- [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
+- [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used throughout the completion of this project to debug, test sizes and layout, and to check responsiveness.
+- [Am I responsive](http://ami.responsivedesign.is/) was used to for the screen shot of the Mockup image in this README.md file.
+- [CSS Tricks](https://css-tricks.com/fluid-width-video/) was used as a general resource, and expecially for the 'Fluid Video width' - to make the video responsive.
+- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootrap Grid and responsive understanding.
+- [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootrap Grid and responsive understanding.
+- [MS1 Planning Session](https://www.youtube.com/watch?v=sH0m9N875SU&) YouTube tutorial by Jim Lynx for guidance on how to get started on this project.
+- [Make a README](https://www.makeareadme.com/) was used as a guide for making this README file.
 
 ## 5. Testing
 
@@ -176,11 +187,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## 9. Credits
 
-MS1 Planning Session - Jim Lynx https://www.youtube.com/watch?v=sH0m9N875SU&list=PLrq7lxF8EYVrvcejINzdH1RtqB2Ax7TlK&index=1
-Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL https://www.youtube.com/watch?v=qmPmwdshCMw
-ANNA GREAVES https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html
-README.md example - https://github.com/AJGreaves/portrait-artist
-https://css-tricks.com/fluid-width-video/ CSS Tricks: Fluid Video width - To make video responsive
+
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
