@@ -148,8 +148,50 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [Make a README](https://www.makeareadme.com/) was used as a guide for making this README file.
 
 ## 5. Testing
+Various tools and validators were used to check that the site works well. Initially a few errors and suggestions resulted after running the URL through these tools and validators, but after correcting and implementing these errors and suggestions, all tests resulted positively.
 
-https://jigsaw.w3.org/css-validator/validator - css validator
+### HTML Validation
+The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/).
+
+[See result]()
+
+### CSS Validation
+The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
+
+[See result]()
+
+### Link Validation
+The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. 
+
+[See result]()
+
+### Accessibility
+The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/).
+
+[See result](https://wave.webaim.org/report#/https://carlabuongiorno.github.io/MilestoneProject1/)
+
+### Performance
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run).
+
+[See result]()
+
+
+
+
+1. As a site visitor, I wish to understand how to navigate this site, so that I can find what I am looking for easily.
+
+
+2. As a site visitor, I wish to view this site on all my devices.
+
+
+3. As a site visitor, I wish to feel inspired by what I see and find on this site.
+
+
+4. As a site visitor, I wish to be able to subscribe to a newsletter in order to have access the latest recipes.
+
+
+5. As a site visitor, I wish to have visible access to social media, so I can follow and be a part of the community.
+
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
