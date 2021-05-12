@@ -173,7 +173,7 @@ The accessibility of the website was evaluated using the [WAVE Web Accessibility
 ### Performance
 The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run).
 
-[See result]()
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)
 
 
 
