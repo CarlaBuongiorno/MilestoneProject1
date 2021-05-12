@@ -174,6 +174,7 @@ The accessibility of the website was evaluated using the [WAVE Web Accessibility
 The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run), as well as [Web Page Test](https://www.webpagetest.org/).
 
 [See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)
+
 [See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/webpagetest.png)
 
 ### Spelling and Grammer
@@ -186,35 +187,27 @@ The README.md file was run through [Online Spellcheck](https://www.online-spellc
 - If an incorrect URL is attempted the user is redirected to a 404 page which will direct them back to the home page.
 - Website is responsive on  mobile, tablet and large screens.
 
-
+### Testing User Stories
 1. As a site visitor, I wish to understand how to navigate this site, so that I can find what I am looking for easily.
 
+    - The fixed navigation bar is easy to understand and always there for ease of navigation on the page. Each item takes the user directly to the chosen section. The logo at the top left of the page also takes the user back to the home page at any given point.
 
 2. As a site visitor, I wish to view this site on all my devices.
 
+    - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used for first and foremost testing of site responsiveness. The site works as expected. Friends and family tested the website on their phones, tablets and computer screens. Feedback was all positive.
 
 3. As a site visitor, I wish to feel inspired by what I see and find on this site.
 
+    - Carefully chosen fonts, colours, images and text; as well as the recipes and video tutorial, all work together in a way that leaves the user feeling inspired.
 
 4. As a site visitor, I wish to be able to subscribe to a newsletter in order to have access the latest recipes.
 
+    - The website features a 'Subscribe' form. Users can either scroll to this from, or click on the 'Subscribe' button in the navigation menu at the top of the page.
 
 5. As a site visitor, I wish to have visible access to social media, so I can follow and be a part of the community.
 
+    - Checked the site footer displays social media icons, clicking on an icon takes the user to that social media page in a new window.
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 ## 6. Project barriers and solutions
 
