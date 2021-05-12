@@ -153,22 +153,22 @@ Various tools and validators were used to check that the site works well. Initia
 ### HTML Validation
 The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/).
 
-[See result]()
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/html.png)
 
 ### CSS Validation
 The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 
-[See result]()
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/css.png)
 
 ### Link Validation
 The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. 
 
-[See result]()
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/links.png)
 
 ### Accessibility
 The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/).
 
-[See result](https://wave.webaim.org/report#/https://carlabuongiorno.github.io/MilestoneProject1/)
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/accessibility.png)
 
 ### Performance
 The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run).
