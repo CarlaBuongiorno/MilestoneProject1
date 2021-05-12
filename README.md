@@ -151,31 +151,19 @@ The images I selected are eye catching with the intention to tickle the taste bu
 Various tools and validators were used to check that the site works well. Initially a few errors and suggestions resulted after running the URL through these tools and validators, but after correcting and implementing these errors and suggestions, all tests resulted positively.
 
 ### HTML Validation
-The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/).
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/html.png)
+The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/html.png))
 
 ### CSS Validation
-The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/css.png)
+The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/css.png))
 
 ### Link Validation
-The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. 
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/links.png)
+The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/links.png))
 
 ### Accessibility
-The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/).
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/accessibility.png)
+The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/accessibility.png))
 
 ### Performance
-The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run), as well as [Web Page Test](https://www.webpagetest.org/).
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)
-
-[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/webpagetest.png)
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/webpagetest.png))
 
 ### Spelling and Grammer
 The README.md file was run through [Online Spellcheck](https://www.online-spellcheck.com/) for any spelling and grammer mistakes.
@@ -218,7 +206,9 @@ The README.md file was run through [Online Spellcheck](https://www.online-spellc
 - The footer in the '404 Page not found' did not sit at the bottom of the page as expected. To fix this the body of the site was positioned: 'relative', the footer was given the position: 'absolute' and 'bottom' was set to '0'. Credit to [Coding Journey](https://www.youtube.com/watch?v=US_3XvufMLU).
 
 ## 7. Version Control
-
+- Git was used for version control.
+- A branch was created for the 'Fun Facts' section in order to try a different approac using the Bootstrap Grid system.
+- The branch was merged with the Master Branch after satisfactory completion of the 'Fun Facts' section.
 
 ## 8. Deployment
 
