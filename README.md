@@ -34,14 +34,14 @@ The site is designed so that upon entering, the user immediately anticipates a s
 
 ### Scope
 
-For the initial release of this website, I have decided on a "Minimal Viable Product" approach - considering my current skillset is at beginner level.
+For the initial release of this website, I have decided on a "Minimal Viable Product" approach - considering my current skill set is at beginner level.
 
 Features include:
-- The ability to navigate with ease through a single page site; either by scrolling through the varous sections, or by clicking on the links on the navigation bar - which is always in view.
+- The ability to navigate with ease through a single page site; either by scrolling through the various sections, or by clicking on the links on the navigation bar - which is always in view.
 - An eye catching, aesthetically pleasing __Home__ page.
-- A __Fun Facts__ section to grab the users attention.
+- A __Fun Facts__ section to grab the user's attention.
 - A __Recipes__ section that is minimal and comprehensible due to the layout. Links to step-by-step instructions are provided for each recipe which opens in a new tab so that users can easily return to the site.
-- A step-by-step video for the user to be inspired to take immediate action followingin the kitchen.
+- A step-by-step video for the user to be inspired to take immediate action following in the kitchen.
 - A __Subscribe | Contact Us__ form for more free recipes and weekly newsletter.
 - A footer with a copyright and social media links for user to interact and become part of the Delicious Monster Community.
 
@@ -58,14 +58,14 @@ The __Recipes__ section features:-
 - each with a picture of the dessert
 - a short but tantalizing description
 - quick to understand information about the total time it takes to complete the recipe
-- the skilllevel it requires
+- the skill level it requires
 - the amount of servings it renders
 - a link to an external page containing step-by-step instructions, pictures and videos.
 - a step-by-step video of one of the above recipes for immediate inspiration, and action.
 
 The __Subscription | Contact Us__ form is simple and clean. Subscription promises 100s more free recipes and a weekly newsletter.
 
-The footer features linked icons for ease of access to social media, which all open on seperate pages.
+The footer features linked icons for ease of access to social media, which all open on separate pages.
 
 ### Skeleton
 
@@ -84,7 +84,7 @@ The footer features linked icons for ease of access to social media, which all o
 
 I decided to use a colour picker tool to pick out 3 colours from my hero image. I then defined each section by 1 of these 3 colours.
 
-I used these colours interchangeably within the content of the site to keep consistency thoughout.
+I used these colours interchangeably within the content of the site to keep consistency throughout.
 
 #### Typography
 
@@ -135,17 +135,17 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to add vendor prefixes.
 
 ### Resources
-- [Code Instutute](https://codeinstitute.net/) was the main source of information used to create this project.
+- [Code Institute](https://codeinstitute.net/) was the main source of information used to create this project.
 - [Code Institute 'Slack' Community](https://slack.com/intl/en-no/) for their general assistance and feedback.
 - [Stack Overflow](https://stackoverflow.com/) was used as a general source of knowledge.
 - [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
 - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used throughout the completion of this project to debug, test sizes and layout, and to check responsiveness.
 - [Am I responsive](http://ami.responsivedesign.is/) was used to for the screen shot of the Mockup image in this README.md file.
 - [CSS Tricks](https://css-tricks.com/fluid-width-video/) was used as a general resource, and expecially for the 'Fluid Video width' - to make the video responsive.
-- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootrap Grid and responsive understanding.
-- [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootrap Grid and responsive understanding.
+- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootsrap Grid and responsive understanding.
+- [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
 - [MS1 Planning Session](https://www.youtube.com/watch?v=sH0m9N875SU&) YouTube tutorial by Jim Lynx for guidance on how to get started on this project.
-- [Make a README](https://www.makeareadme.com/) was used as a guide for making this README file.
+- [Make a README](https://www.makeareadme.com/) was used as a guide for making this README.md file.
 
 ## 5. Testing
 Various tools and validators were used to check that the site works well. Initially a few errors and suggestions resulted after running the URL through these tools and validators, but after correcting and implementing these errors and suggestions, all tests resulted positively.
@@ -171,11 +171,20 @@ The accessibility of the website was evaluated using the [WAVE Web Accessibility
 [See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/accessibility.png)
 
 ### Performance
-The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run).
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run), as well as [Web Page Test](https://www.webpagetest.org/).
 
 [See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)
+[See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/webpagetest.png)
 
+### Spelling and Grammer
+The README.md file was run through [Online Spellcheck](https://www.online-spellcheck.com/) for any spelling and grammer mistakes.
 
+### Other Testing
+- The Subscription form will not submit until name and email fields are filled out. If a user tries to submit without these fields filled, an alert will apper.
+- If the email field is filled incorrectly, an error of 'Please include an @ in the email address' is presented to the user.
+- Tested all links within the site take the user to the appropriate pages.
+- If an incorrect URL is attempted the user is redirected to a 404 page which will direct them back to the home page.
+- Website is responsive on  mobile, tablet and large screens.
 
 
 1. As a site visitor, I wish to understand how to navigate this site, so that I can find what I am looking for easily.
