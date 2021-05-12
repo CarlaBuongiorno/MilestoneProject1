@@ -212,12 +212,25 @@ The README.md file was run through [Online Spellcheck](https://www.online-spellc
 
 ## 8. Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This website was deployed to Github Pages as follows:
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+1. Sign in to GitHub.
+2. Locate the Repositories list and select __CarlaBuongiorno/MilestoneProject1__.
+3. Click on __Settings__ at the top of the page.
+4. Click __Pages__ in the left side menu.
+5. Under the __Source__ heading, select the __Master__ Branch in the dropdown menu.
+6. Click __Save__. The page refreshes and the website is deployed.
+7. A URL link is provided for the live deployed website.
+
+There are no differences between the deployed version and the development version.
+
+To run the code locally:
+
+1. Sign in to GitHub.
+2. Locate the Repositories list and select __CarlaBuongiorno/MilestoneProject1__.
+3. Click on __Code__ dropdown menu at the top of the project files with the download icon.
+4. You can choose either to copy the __URL__ link provided which can be used on your desktop IDE, or download the __ZIP__ file which can then be unzipped onto your local computer.
+
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
