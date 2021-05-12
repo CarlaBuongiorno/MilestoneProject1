@@ -207,7 +207,7 @@ The README.md file was run through [Online Spellcheck](https://www.online-spellc
 
 ## 7. Version Control
 - Git was used for version control.
-- A branch was created for the 'Fun Facts' section in order to try a different approac using the Bootstrap Grid system.
+- A branch was created for the 'Fun Facts' section in order to try a different approach using the Bootstrap Grid system.
 - The branch was merged with the Master Branch after satisfactory completion of the 'Fun Facts' section.
 
 ## 8. Deployment
@@ -231,12 +231,7 @@ To run the code locally:
 3. Click on __Code__ dropdown menu at the top of the project files with the download icon.
 4. You can choose either to copy the __URL__ link provided which can be used on your desktop IDE, or download the __ZIP__ file which can then be unzipped onto your local computer.
 
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-
 ## 9. Credits
-
 
 
 ### Content
@@ -244,6 +239,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The photos used in this site were obtained from ...
+
+### Code
 
 ## 10. Acknowledgements
 
