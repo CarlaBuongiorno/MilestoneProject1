@@ -211,11 +211,14 @@ The README.md file was run through [Online Spellcheck](https://www.online-spellc
 
 ## 6. Project barriers and solutions
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- The hero image had to be carefully resized and positioned in order to display appropriately on different screen sizes. To do this, the background colour for the home page is set to exactly the same colour as the background of the image, in order for the sizing of the image to be played with.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- The 'Fun Facts' section layout seemed an impossible task (where responsiveness is concerned) before proper understanding and use of Bootstrap grids was implemented. To keep the correct images diplaying alonside the chosen text in a tablet view size and larger, the order of content had to be changed using Bootstrap class 'order-md-1, order-md-2, order-md-3, etc.
+
+- The footer in the '404 Page not found' did not sit at the bottom of the page as expected. To fix this the body of the site was positioned: 'relative', the footer was given the position: 'absolute' and 'bottom' was set to '0'. Credit to [Coding Journey](https://www.youtube.com/watch?v=US_3XvufMLU).
 
 ## 7. Version Control
+
 
 ## 8. Deployment
 
