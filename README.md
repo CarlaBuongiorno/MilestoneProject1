@@ -237,8 +237,35 @@ To run the code locally:
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
+Credit dessert quote: https://www.lifebeginswithdessert.com/best-dessert-quotes/
+
 ### Media
-- The photos used in this site were obtained from ...
+The photos used in this site were obtained from [Pexels](https://www.pexels.com/search/ice%20cream/?orientation=portrait), [Unsplash](https://unsplash.com/), and [Pixabay](https://pixabay.com/). All three of these sites are completely copyright-free. Below are all the photographers whose work are featured in this website:
+
+#### Pexels
+
+[Taner Soyler](https://www.pexels.com/photo/red-strawberry-fruit-2459870/)
+
+[Micheile @visualstories.nl](https://www.pexels.com/photo/food-wood-red-dark-7518552/)
+
+#### Unsplash
+
+[Shania Pinnata](https://unsplash.com/photos/a2JEYEdWky4)
+
+[Alexandra Gornago](https://unsplash.com/photos/_B7shfNUXEA)
+
+[Frank Zhang](https://unsplash.com/photos/O2ExGqIyvOw)
+
+#### Pixabay
+
+[Bernadette Wurzinger](https://pixabay.com/photos/apple-pie-dough-apple-cake-dessert-5479993/)
+
+[frenchotof](https://pixabay.com/photos/ice-cream-raspberry-food-cream-1564728/)
+
+[RitaE](https://pixabay.com/photos/cream-puff-strawberries-cream-2092976/)
+
+[Anrita1705](https://pixabay.com/photos/chocolate-pudding-vanilla-pudding-5069214/)
+
 
 ### Code
 
