@@ -1,4 +1,4 @@
-<h1 align="center">Delicious Monster</h1>
+# Delicious Monster
 
 
 [View the live site here](https://carlabuongiorno.github.io/MilestoneProject1/)
