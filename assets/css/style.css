@@ -287,7 +287,7 @@ a.hero-text-recipes:hover {
     padding-bottom: 30px;
 }
 
-button[type="submit"] {
+button[type="button"] {
     margin-top: 15px;
     margin-bottom: 20px;
 }
@@ -558,6 +558,12 @@ h1.error-heading {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    button[type="button"] {
+        margin-bottom: 30px;
     }
 }
 
