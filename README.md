@@ -117,8 +117,8 @@ The images I selected are eye catching with the intention to tickle the taste bu
 ## 4. Technologies and Resources Used
 
 ### Languages
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [HTML](https://en.wikipedia.org/wiki/HTML)
+-   [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
 - [Balsamiq](https://balsamiq.com/) was used to create the [wireframes:](assets/wireframes/wireframes.pdf) during the design process.
@@ -235,48 +235,56 @@ To run the code locally:
 
 ### Content
 
-1. The __Fun Facts__ section was found on the [Shari's Berries Blog](https://www.berries.com/blog/45-amazing-facts-dessert)
+- The __Fun Facts__ section was found on the [Shari's Berries Blog](https://www.berries.com/blog/45-amazing-facts-dessert)
 
-2. The desser quote was taken from [Life Begins With Dessert](https://www.lifebeginswithdessert.com/best-dessert-quotes/)
+- The desser quote was taken from [Life Begins With Dessert](https://www.lifebeginswithdessert.com/best-dessert-quotes/)
 
-3. All other text was written by myself (Carla Buongiorno).
+- All other text was written by myself (Carla Buongiorno).
 
 ### Media
 The photos used in this site were obtained from [Pexels](https://www.pexels.com/search/ice%20cream/?orientation=portrait), [Unsplash](https://unsplash.com/), and [Pixabay](https://pixabay.com/). All three of these sites are completely copyright-free. Below are all the photographers whose work are featured in this website:
 
-#### Pexels
+- #### Pexels
 
-[Taner Soyler](https://www.pexels.com/photo/red-strawberry-fruit-2459870/)
+    - [Taner Soyler](https://www.pexels.com/photo/red-strawberry-fruit-2459870/)
 
-[Micheile @visualstories.nl](https://www.pexels.com/photo/food-wood-red-dark-7518552/)
+    - [Micheile @visualstories.nl](https://www.pexels.com/photo/food-wood-red-dark-7518552/)
 
-#### Unsplash
+- #### Unsplash
 
-[Shania Pinnata](https://unsplash.com/photos/a2JEYEdWky4)
+    - [Shania Pinnata](https://unsplash.com/photos/a2JEYEdWky4)
 
-[Alexandra Gornago](https://unsplash.com/photos/_B7shfNUXEA)
+    - [Alexandra Gornago](https://unsplash.com/photos/_B7shfNUXEA)
 
-[Frank Zhang](https://unsplash.com/photos/O2ExGqIyvOw)
+    - [Frank Zhang](https://unsplash.com/photos/O2ExGqIyvOw)
 
-#### Pixabay
+- #### Pixabay
 
-[Bernadette Wurzinger](https://pixabay.com/photos/apple-pie-dough-apple-cake-dessert-5479993/)
+    - [Bernadette Wurzinger](https://pixabay.com/photos/apple-pie-dough-apple-cake-dessert-5479993/)
 
-[frenchotof](https://pixabay.com/photos/ice-cream-raspberry-food-cream-1564728/)
+    - [frenchotof](https://pixabay.com/photos/ice-cream-raspberry-food-cream-1564728/)
 
-[RitaE](https://pixabay.com/photos/cream-puff-strawberries-cream-2092976/)
+    - [RitaE](https://pixabay.com/photos/cream-puff-strawberries-cream-2092976/)
 
-[Anrita1705](https://pixabay.com/photos/chocolate-pudding-vanilla-pudding-5069214/)
+    - [Anrita1705](https://pixabay.com/photos/chocolate-pudding-vanilla-pudding-5069214/)
 
 The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O7OKXT3Q)
 
 ### Code
 
-1. Credit -> Code Institute: Putting It All Together | Mini Project with Bootstrap 4 : Styling the Form
-2. Credit - Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL: https://www.youtube.com/watch?v=qmPmwdshCMw for better understanding of Bootstrap layout
-3. Cerdit -> To make video responsive https://css-tricks.com/fluid-width-video/
-4. Credit: to keep the footer at the bottom -> https://www.youtube.com/watch?v=US_3XvufMLU
-5. Credit: Social icons styling -> Code Institute 'Love Running' project
+- [Code Institute](https://codeinstitute.net/) was the main source of information used to create this project.
+    - Putting It All Together | Mini Project with Bootstrap 4 -> Styling the Form
+    - Adding hero image as background -> __Love Running__ project
+    - Social icons styling -> __Love Running__ project
+- [Code Institute 'Slack' Community](https://slack.com/intl/en-no/) for their general assistance and feedback.
+- [Bootstrap](https://getbootstrap.com/docs/4.0/components/card/) for creating Cards for the __Recipes__.
+- [Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/) for creating a responsive form.
+- [Coding Journey](https://www.youtube.com/watch?v=US_3XvufMLU) to keep the footer at the bottom.
+- [Stack Overflow](https://stackoverflow.com/) was used as a general source of knowledge.
+- [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
+- [CSS Tricks](https://css-tricks.com/fluid-width-video/) was used as a general resource, and expecially for the 'Fluid Video width' - to make the video responsive.
+- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootsrap Grid and responsive understanding.
+- [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
 
 ## 10. Acknowledgements
 
