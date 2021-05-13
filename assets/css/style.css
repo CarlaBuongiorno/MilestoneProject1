@@ -88,6 +88,8 @@ h2.error-content {
 }
 
 /* ------------------------------- Navigation ------------------------------- */
+/* ------------------------------- Logo ------------------------------- */
+/* Credit: Bootstrap -> https://getbootstrap.com/docs/4.0/components/navbar/ */
 
 a.navbar-brand {
     height: 80px;
@@ -108,6 +110,9 @@ a.navbar-brand {
     left: 76px;
     bottom: 46px;
 }
+
+/* ------------------------------- Navbar ------------------------------- */
+/* Credit: Bootstrap -> https://getbootstrap.com/docs/4.0/components/navbar/ */
 
 .navbar-dark .navbar-toggler {
     font-size: 2rem;
@@ -146,6 +151,7 @@ a.navbar-brand {
 }
 
 /* ------------------------------- Home Page ------------------------------- */
+/* Credit: Code Institute -> 'Love Running' walk through project */
 
 .hero-image {
     /* Image by Taner Soyler from Pexels */
@@ -174,6 +180,7 @@ a.hero-text-recipes:hover {
     background-color: #ff536e;
 }
 
+/* Credit: Bootstrap for img-thumbnail -> https://getbootstrap.com/docs/4.0/content/images/ */
 .img-thumbnail {
     background-color: #d6efcf;
 }
@@ -190,6 +197,7 @@ a.hero-text-recipes:hover {
     text-align: right;
 }
 
+/* Credit: Bootstrap for blockquote -> https://getbootstrap.com/docs/4.0/content/typography/#blockquotes */
 .blockquote {
     padding-top: 20px;
     color: #0a0a0c;
@@ -298,7 +306,6 @@ button[type="button"] {
 }
 
 /* ------------------------------- Footer ------------------------------- */
-
 /* Credit: to keep the footer at the bottom -> https://www.youtube.com/watch?v=US_3XvufMLU */
 /* Credit: Social icons styling -> Code Institute 'Love Running' project */
 
@@ -321,6 +328,10 @@ ul.social-icons {
     color: #ff536e;
     font-size: 200%;
     padding: 2%;
+}
+
+.social-icons i:hover {
+    color: #d6efcf;
 }
 
 footer p {
