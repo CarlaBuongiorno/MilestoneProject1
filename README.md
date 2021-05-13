@@ -132,6 +132,7 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [TinyJPG](https://tinyjpg.com/) was used for downsizing all images in the site while retaining quality.
 - [Color Picker](https://imagecolorpicker.com/) was used for choosing colours from the Hero Image Strawberry.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to add vendor prefixes.
+- [Coolers](https://coolors.co/0a0a0c-ff536e-d6efcf) for the colour palette image in the README.md.
 
 ### Resources
 - [Code Institute](https://codeinstitute.net/) was the main source of information used to create this project.
