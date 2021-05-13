@@ -233,11 +233,13 @@ To run the code locally:
 
 ## 9. Credits
 
-
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-Credit dessert quote: https://www.lifebeginswithdessert.com/best-dessert-quotes/
+1. The __Fun Facts__ section was found on the [Shari's Berries Blog](https://www.berries.com/blog/45-amazing-facts-dessert)
+
+2. The desser quote was taken from [Life Begins With Dessert](https://www.lifebeginswithdessert.com/best-dessert-quotes/)
+
+3. All other text was written by myself (Carla Buongiorno).
 
 ### Media
 The photos used in this site were obtained from [Pexels](https://www.pexels.com/search/ice%20cream/?orientation=portrait), [Unsplash](https://unsplash.com/), and [Pixabay](https://pixabay.com/). All three of these sites are completely copyright-free. Below are all the photographers whose work are featured in this website:
@@ -268,6 +270,10 @@ The photos used in this site were obtained from [Pexels](https://www.pexels.com/
 
 
 ### Code
+
+1. 
+2. 
+3. 
 
 ## 10. Acknowledgements
 
