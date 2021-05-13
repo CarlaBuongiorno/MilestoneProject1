@@ -78,9 +78,8 @@ The footer features linked icons for ease of access to social media, which all o
 ### Surface
 
 #### Colours
-1. Black #0a0a0c
-2. Pink #ff536e
-3. Mint #d6efcf
+
+![Colour Palette](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/colour-palette.png)
 
 I decided to use a colour picker tool to pick out 3 colours from my hero image. I then defined each section by 1 of these 3 colours.
 
@@ -287,5 +286,6 @@ The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O
 - [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
 
 ## 10. Acknowledgements
-
-- I received inspiration for this project from X
+- I would like to thank the staff and students of __Code Institute__ and the Code Institute __Slack Community__ for their helpfulness when needed.
+- I would like to thank my mentor __Medale Oluwafemi__ for his constructive feedback, support, and guidance.
+- Inspiration for this project was from my mother's love for baking desserts and with hopes that she will turn her passion into a business.
