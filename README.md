@@ -125,7 +125,7 @@ The images I selected are eye catching with the intention to tickle the taste bu
 ### Frameworks, Libraries & Programs Used
 - [Balsamiq](https://balsamiq.com/) was used to create the [wireframes:](assets/wireframes/wireframes.pdf) during the design process.
 - [Bootstrap 4.6.0](https://www.bootstrapcdn.com/) This project uses Bootstrap to help with the responsiveness and styling of the website.
-- [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) was used to add icons to the website for UX purposes
+- [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) was used to add icons to the website for UX purposes.
 - [Google Fonts](https://fonts.google.com/) was used to import the fonts that were used throughout the project.
 - [jQuery](https://jquery.com/) came with Bootstrap which helped to make the navbar responsive.
 - [Gitpod](https://gitpod.io/workspaces/) was used as the IDE to develop this website.
@@ -165,7 +165,7 @@ The links of the website (except the Facebook link) were validated using the [W3
 ### Accessibility
 The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/accessibility.png))
 
-- There is one alert about adding captions to the video. Because this is an embedded YouTube video, YouTube enables the user to switch on 'Captions'. This specific video has no speaking, therefore the Alert becomes irrelevant.
+- There is one alert about adding captions to the video. Because this is an embedded YouTube video, YouTube enables the user to switch on 'Captions'. This specific video has no voices, therefore the alert becomes irrelevant.
 
 ### Performance
 The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/webpagetest.png))
@@ -240,9 +240,9 @@ To run the code locally:
 
 ### Content
 
-- The __Fun Facts__ section was found on the [Shari's Berries Blog](https://www.berries.com/blog/45-amazing-facts-dessert)
+- The __Fun Facts__ section was found on the [Shari's Berries Blog](https://www.berries.com/blog/45-amazing-facts-dessert).
 
-- The desser quote was taken from [Life Begins With Dessert](https://www.lifebeginswithdessert.com/best-dessert-quotes/)
+- The desser quote was taken from [Life Begins With Dessert](https://www.lifebeginswithdessert.com/best-dessert-quotes/).
 
 - All other text was written by myself (Carla Buongiorno).
 
@@ -273,7 +273,7 @@ The photos used in this site were obtained from [Pexels](https://www.pexels.com/
 
     - [Anrita1705](https://pixabay.com/photos/chocolate-pudding-vanilla-pudding-5069214/)
 
-The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O7OKXT3Q)
+The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O7OKXT3Q).
 
 ### Code
 
