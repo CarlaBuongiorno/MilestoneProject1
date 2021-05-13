@@ -165,6 +165,8 @@ The links of the website (except the Facebook link) were validated using the [W3
 ### Accessibility
 The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/accessibility.png))
 
+- There is one alert about adding captions to the video. Because this is an embedded YouTube video, YouTube enables the user to switch on 'Captions'. This specific video has no speaking, therefore the Alert becomes irrelevant.
+
 ### Performance
 The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/webpagetest.png))
 
