@@ -70,6 +70,9 @@ The footer features linked icons for ease of access to social media, which all o
 ### Skeleton
 
 - [Wireframes:](assets/readme-images/wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
+
+(Layout changes were made to the final project to make for better responsive design.)
+
 1. Home
 2. Fun Facts
 3. Recipes
@@ -279,6 +282,7 @@ The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O
 - [Code Institute 'Slack' Community](https://slack.com/intl/en-no/) for their general assistance and feedback.
 - [Bootstrap](https://getbootstrap.com/docs/4.0/components/card/) for creating Cards for the __Recipes__.
 - [Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/) for creating a responsive form.
+- [Bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/) for creating the navigation bar.
 - [Coding Journey](https://www.youtube.com/watch?v=US_3XvufMLU) to keep the footer at the bottom.
 - [Stack Overflow](https://stackoverflow.com/) was used as a general source of knowledge.
 - [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
