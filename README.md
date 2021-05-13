@@ -268,12 +268,15 @@ The photos used in this site were obtained from [Pexels](https://www.pexels.com/
 
 [Anrita1705](https://pixabay.com/photos/chocolate-pudding-vanilla-pudding-5069214/)
 
+The Video Tutorial was taken from [YouTube](https://www.youtube.com/watch?v=YX-O7OKXT3Q)
 
 ### Code
 
-1. 
-2. 
-3. 
+1. Credit -> Code Institute: Putting It All Together | Mini Project with Bootstrap 4 : Styling the Form
+2. Credit - Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL: https://www.youtube.com/watch?v=qmPmwdshCMw for better understanding of Bootstrap layout
+3. Cerdit -> To make video responsive https://css-tricks.com/fluid-width-video/
+4. Credit: to keep the footer at the bottom -> https://www.youtube.com/watch?v=US_3XvufMLU
+5. Credit: Social icons styling -> Code Institute 'Love Running' project
 
 ## 10. Acknowledgements
 
