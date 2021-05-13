@@ -5,7 +5,7 @@
 
 Delicious Monster is a comprehensive website incorporating various technological elements to offer users a variety of recipes and inspiration to make sweets and desserts at home. Additionally, it offers some _Fun Facts_ and a quote about desserts in order to put the user in a playful, creative mood.
 
-![Responsive mockup of the website](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/responsive/responsive-img.png)
+![Responsive mockup of the website](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/responsive/responsive-img.png)
 
 ## 2. UXD – User Experience Design
 
@@ -69,7 +69,7 @@ The footer features linked icons for ease of access to social media, which all o
 
 ### Skeleton
 
-- [Wireframes:](assets/wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
+- [Wireframes:](assets/readme-images/wireframes/wireframes.pdf) 1 Page website with 4 main sections :- 
 1. Home
 2. Fun Facts
 3. Recipes
@@ -151,19 +151,19 @@ The images I selected are eye catching with the intention to tickle the taste bu
 Various tools and validators were used to check that the site works well. Initially a few errors and suggestions resulted after running the URL through these tools and validators, but after correcting and implementing these errors and suggestions, all tests resulted positively.
 
 ### HTML Validation
-The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/html.png))
+The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/html.png))
 
 ### CSS Validation
-The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/css.png))
+The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/css.png))
 
 ### Link Validation
-The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/links.png))
+The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link was not checked due to robots exclusion rules, but I validated the link manually. ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/links.png))
 
 ### Accessibility
-The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/accessibility.png))
+The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/accessibility.png))
 
 ### Performance
-The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/testing/webpagetest.png))
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/webpagetest.png))
 
 ### Spelling and Grammer
 The README.md file was run through [Online Spellcheck](https://www.online-spellcheck.com/) for any spelling and grammer mistakes.
